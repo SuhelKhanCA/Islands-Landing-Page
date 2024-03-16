@@ -8,6 +8,6 @@ function myFunction() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     navbar.style.backgroundColor = "#666"; // Color when scrolled
   } else {
-    navbar.style.backgroundColor = "#333"; // Original color
+    navbar.style.backgroundColor = "#333"; // Original color : Dark Grey
   }
 }
