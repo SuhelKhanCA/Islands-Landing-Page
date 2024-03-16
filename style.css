@@ -26,6 +26,6 @@ body {
     transition: background-color 0.5s;
   }
   .navbar a:hover {
-    background-color: #ddd;
+    background-color: rgb(240, 175, 218);
     color: black;
   }
